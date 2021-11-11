@@ -10,4 +10,7 @@ The clock was configured to have a 256ms delay. This was done by first setting t
 Being that this program utilized interrupts to switch the LEDs, interrupt flags were delcared and enabled, (IE1 |= WDTIE, enable_interrupts()). The value in the interrupt flag register after running the program was 0x01.![image](https://user-images.githubusercontent.com/60796502/141367888-ebd45a86-5219-4d2a-8451-369423f9c891.png)
 
 
-xz
+The GIE bit in the register was recorded as 1, ![image](https://user-images.githubusercontent.com/60796502/141368327-5f2dadad-f4e3-4040-af9a-7e87c6ff0e91.png)
+
+
+k
