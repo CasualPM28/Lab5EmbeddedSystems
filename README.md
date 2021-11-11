@@ -16,7 +16,13 @@ The GIE bit in the register was recorded as 1, ![image](https://user-images.gith
 Q2.) a.) This question was about the generation of a PWM using software that would control the brightness of an LED. It can be seen in the image below that the PWM wave was correctly generated. Additionally, the chart of the calculated vs. measured Duty Cycle, Period, and Frequency are seen below. The hand calculations for each calculated measurement is also seen below. Unlike Q3, the below images show the Level 0 diagram of the PWM generator and it's UML diagram.
 ![image](https://user-images.githubusercontent.com/60796502/141378426-2b21294e-8944-47f4-8be0-b46c7948aa6f.png)
 ![image](https://user-images.githubusercontent.com/60796502/141378582-84e45432-ce16-4265-afe2-d6c32fbabb90.png)
+![image](https://user-images.githubusercontent.com/60796502/141378630-0980f559-9b10-4ce7-89c7-74007965f774.png)
+![image](https://user-images.githubusercontent.com/60796502/141378662-584fc0ee-5312-4c4e-adac-5ce332ee6812.png)
+![image](https://user-images.githubusercontent.com/60796502/141378675-e7edaa29-6762-4e09-95b7-3ac798297681.png)
 
 
 
 Q3.) a.) This question was about the generation of a PWM using hardware that would control the brightness of an LED. It can be seen in the image below that the PWM wave was correctly generated. Additionally, the chart of the calculated vs. measured Duty Cycle, Period, and Frequency are seen below. The hand calculations for each calculated measurement is also seen below.
+![image](https://user-images.githubusercontent.com/60796502/141378695-502fa30e-3431-4fda-9229-fc9d820c61e2.png)
+![image](https://user-images.githubusercontent.com/60796502/141378711-90996359-6d4b-4779-bbae-3ec2373cf823.png)
+
