@@ -24,7 +24,8 @@ Q2.) a.) This question was about the generation of a PWM using software that wou
 
 Q3.) a.) This question was about the generation of a PWM using hardware that would control the brightness of an LED. It can be seen in the image below that the PWM wave was correctly generated. Additionally, the chart of the calculated vs. measured Duty Cycle, Period, and Frequency are seen below. The hand calculations for each calculated measurement is also seen below. The only value to be caluclated was the frequency, which was found to be 4Hz. The measured duty cycle, period, and frequency were 20.00%, 240.72ms, and 4.154Hz respectively.
 ![image](https://user-images.githubusercontent.com/60796502/141378695-502fa30e-3431-4fda-9229-fc9d820c61e2.png)
-![image](https://user-images.githubusercontent.com/60796502/141378711-90996359-6d4b-4779-bbae-3ec2373cf823.png)
 ![image](https://user-images.githubusercontent.com/60796502/141378833-47ae4fb4-f6b7-40d2-95c3-7e7d927c6d26.png)
+![image](https://user-images.githubusercontent.com/60796502/141378711-90996359-6d4b-4779-bbae-3ec2373cf823.png)
+
 
 
