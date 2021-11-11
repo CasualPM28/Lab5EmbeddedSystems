@@ -13,4 +13,7 @@ Being that this program utilized interrupts to switch the LEDs, interrupt flags 
 The GIE bit in the register was recorded as 1, ![image](https://user-images.githubusercontent.com/60796502/141368327-5f2dadad-f4e3-4040-af9a-7e87c6ff0e91.png)
 
 
-k
+Q2.) a.) This question was about the generation of a PWM using software that would control the brightness of an LED. It can be seen in the image below that the PWM wave was correctly generated. Additionally, the chart of the calculated vs. measured Duty Cycle, Period, and Frequency are seen below. The hand calculations for each calculated measurement is also seen below. Unlike Q3, the below images show the Level 0 diagram of the PWM generator and it's UML diagram.
+
+
+Q3.) a.) This question was about the generation of a PWM using hardware that would control the brightness of an LED. It can be seen in the image below that the PWM wave was correctly generated. Additionally, the chart of the calculated vs. measured Duty Cycle, Period, and Frequency are seen below. The hand calculations for each calculated measurement is also seen below.
