@@ -7,8 +7,8 @@ void main(void)
 	P1DIR |= BIT6;      // set Port 1.6 to be the output
 	TA0CTL = TASSEL_2 + MC_1 + ID_3; //use SMCLK, up mode, frequency division of 1,
 	                                         //and resetting clock divider
-	TA0CCR0 = 31250-1; // set to maximum count value
-	TA0CCR1 = 6250;  // initialize counter compare
+	TA0CCR0 = 31250-1; // set to maximum count value (F/DIV)*T
+	TA0CCR1 = 6250;  // initialize counter compare (10% of TACCR0)
 
 	TA0CCTL0 |= CCIE; // enable capture/compare interrupt at TA0CCTL0
 	TA0CCTL1 |= CCIE; // enable capture/compare interrupt at TA0CCTL1
